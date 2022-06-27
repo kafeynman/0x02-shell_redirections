@@ -1,2 +1,2 @@
-# 0x02-shell_reidrections
+# 0x02-shell_redirections
 Shell Redirections
